@@ -1,4 +1,4 @@
-package packofcards;
+package problem;
 
 public class packOfCards {
 
